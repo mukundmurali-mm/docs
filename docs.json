@@ -3,9 +3,9 @@
   "theme": "maple",
   "name": "mukundmurali.in",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#0066FF",
-    "dark": "#15803D"
+    "primary": "#007BFF",
+    "light": "#3399FF",
+    "dark": "#0056b3"
   },
   "favicon": "favicon.svg",
   "navigation": {
